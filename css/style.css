@@ -1,0 +1,131 @@
+.container-one {
+    text-align: center;
+    background-image: url(https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/02/Photoshop-Replace-Background-Featured.jpg);
+    background-repeat: no-repeat;
+    height: 800px;
+}
+
+.home {
+    display: block;
+    width: 50px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.nav {
+    width: 50px;
+    margin: 30px;
+    padding: 10px;
+}
+
+.heading {
+    color: #3cb0fd;
+}
+
+.home-nav {
+    color: darkcyan;
+    font-weight: 900;
+    margin: 20px;
+    width: 100%;
+    left: 50px;
+    display: inline;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.home-nav:hover {
+    color: brown;
+}
+
+.vision {
+    margin-top: 200px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.dir {
+    flex-direction: column-reverse;
+}
+
+.div-2 {
+    text-align: center;
+    background-color: rgb(240, 239, 220);
+}
+
+p {
+    line-height: 2;
+    margin: auto;
+}
+
+.DELHI {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+
+.MUMBAI {
+    float: right;
+    margin-left: 20px;
+}
+
+.PATNA {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+
+.places {
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+}
+
+footer {
+    background-color: darkcyan;
+    padding: 20px;
+}
+
+.footer-link {
+    width: 50px;
+    margin: 20px;
+}
+
+.btn {
+    background: #6834d9;
+    background-image: -webkit-linear-gradient(top, #6834d9, #402bb8);
+    background-image: -moz-linear-gradient(top, #6834d9, #402bb8);
+    background-image: -ms-linear-gradient(top, #6834d9, #402bb8);
+    background-image: -o-linear-gradient(top, #6834d9, #402bb8);
+    background-image: linear-gradient(to bottom, #6834d9, #402bb8);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 29px;
+    padding: 13px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+
+.founder {
+    text-align: center;
+    background-color: burlywood;
+}
+
+.ceo {
+    font: caption;
+}
+
+.form {
+    text-align: left;
+}
